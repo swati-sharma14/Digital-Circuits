@@ -1,6 +1,7 @@
 # 🧩 Digital Circuits Repository
 
-Welcome to the Digital Circuits Repository! Here, you'll find a collection of fascinating digital circuit designs and projects. 🌟
+Welcome to the Digital Circuits Repository! <br>
+Here, you'll find a collection of fascinating digital circuit designs and projects. 🌟
 
 ## Features
 
