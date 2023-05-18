@@ -45,7 +45,6 @@ Explore a variety of digital circuits, each stored in a separate folder:
 
 ### J-K Flip Flop ⏯️
 - Description: A circuit that stores and outputs one bit of data, controlled by clock signals and input signals.
-- File: [J-K Flip Flop.zip](link-to-file)
 
 ### MUX(0) MUX(1) 🧮
 - Description: Two separate multiplexer circuits that select one input from multiple inputs based on select signals.
